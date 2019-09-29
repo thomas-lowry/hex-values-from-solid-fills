@@ -1,0 +1,10 @@
+{
+  "name": "Hex Codes",
+  "id": "760131600649542932",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    {"name": "Styles → Hex", "command": "hex"},
+    {"name": "Styles → Names and Hex values", "command": "namesAndHex"}
+  ]
+}
